@@ -1,0 +1,6 @@
+dash
+pandas
+gunicorn
+scikit-learn
+dash-bootstrap-components
+plotly
